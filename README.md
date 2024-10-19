@@ -5,4 +5,4 @@ Modify the project mini-dnn-cpp to change the network architecture to LeNet-5 an
 - Weight matrix (kernel values) in constant memory.
 - ...
 
-To run this project, you just run "source code.ipynb" in google colab GPU.
+To run this project, you just run "main.ipynb" in google colab GPU.
