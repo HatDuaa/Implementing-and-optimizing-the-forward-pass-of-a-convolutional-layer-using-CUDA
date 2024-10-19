@@ -11,7 +11,7 @@ This project modifies the mini-dnn-cpp framework to implement the LeNet-5 archit
 - [Google Colab](https://colab.research.google.com/) (with GPU enabled)
 
 ## Usage
-To run this project, simply execute the "main.ipynb" notebook in [Google Colab GPU](https://colab.research.google.com/drive/16B4blnAH9ewjb7Ejxnxi542fA1YgHwnY?usp=sharing). You will be able to visualize the results of the LeNet-5 architecture on the Fashion MNIST dataset.
+To run this project, simply execute the "main.ipynb" notebook in [Google Colab GPU](https://colab.research.google.com/drive/16B4blnAH9ewjb7Ejxnxi542fA1YgHwnY?usp=sharing). You will be able to visualize the results of the optimizing the GPU convolution kernel.
 
 ## Contributing
 If you would like to contribute to this project, please fork the repository and submit a pull request.
