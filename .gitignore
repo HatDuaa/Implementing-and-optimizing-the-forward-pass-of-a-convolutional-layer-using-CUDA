@@ -78,7 +78,7 @@
 # *.cubin
 # *.fatbin01~
 
-/build
+ 
 *.o
 *.out
 .vscode
